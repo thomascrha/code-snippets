@@ -1,0 +1,10 @@
+{
+  "SnippetId": "943a3976-ac11-45fd-97f9-5350ee4b1edd",
+  "SnippetName": "code snippet",
+  "SnippetAuthor": "tester",
+  "ReleaseDateVersion": "05/28/2021 04:07:51",
+  "SnippetModifiedBy": "tester",
+  "SnippetModifiedDate": "05/28/2021 04:07:51",
+  "Description": "amskdmasd",
+  "Snippet": "covery\n  vars_prompt:\n    - name: \u0027discovery_vars_prompts_username\u0027\n      prompt: \u0027Enter username\u0027\n      default: \u0027cisco\u0027\n      private: false\n    - name: \u0027discovery_vars_prompts_password\u0027\n      prompt: \u0027Enter password\u0027\n      default: \u0027cisco\u0027\n      private: true\n      unsafe: true\n      mkasdm: ams"
+}
